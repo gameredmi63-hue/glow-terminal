@@ -1,0 +1,10 @@
+Package: glow-terminal
+Version: 1.0
+Architecture: all
+Maintainer: you <you@example.com>
+Description: Colorize terminal with glow
+Filename: ./glow-terminal.deb
+Size: 912
+MD5sum: e0f24a4503d967f89737336ab7032d42
+SHA256: 088e219fbb955e56cdc1193b0c019a15dbab5b7c95507c02b0232980fdad274d
+
